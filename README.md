@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-SantosC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 
 <!--
