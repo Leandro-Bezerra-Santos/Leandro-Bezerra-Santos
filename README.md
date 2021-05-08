@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Leandro-Bezerra-Santos/Leandro-Bezerra-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -15,6 +13,9 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTeixeiraC&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RodrigoTeixeiraC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
+
+<!--
+**Leandro-Bezerra-Santos/Leandro-Bezerra-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
