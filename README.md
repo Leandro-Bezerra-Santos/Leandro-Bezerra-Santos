@@ -1,5 +1,8 @@
 ### :man_technologist: Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 
 
+#### Meus contatos:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)](https://www.linkedin.com/in/Leandro-Bezerra)
+
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
