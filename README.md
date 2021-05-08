@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### :man_technologist: Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 
 
 #### Conhecimento nas tecnologias:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
