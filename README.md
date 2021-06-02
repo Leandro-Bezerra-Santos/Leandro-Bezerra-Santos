@@ -10,8 +10,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.tchagas@gmail.com)](mailto:leandrodiasbezerra95@gmail.com)
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-c14438?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me)
-
 
 #### Conhecimento nas tecnologias:
 
