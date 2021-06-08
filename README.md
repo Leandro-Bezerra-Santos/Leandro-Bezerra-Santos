@@ -1,5 +1,7 @@
-### :man_technologist: Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 
 
+<img width="100%" height="500px" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
+
+<h2 align="center" > Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 <h2/>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
