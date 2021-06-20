@@ -1,6 +1,6 @@
 
 
-<h1 align="center" > Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 </h1>
+<h1 align="center"> Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 </h1>
 
 
 <h2><i> Meus contatos: </i></h2>
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
 
 
-<h3>Estudando</h3>
+<h2>Estudando</h2>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
