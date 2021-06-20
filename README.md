@@ -35,4 +35,4 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img align="left"  width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=onedark" /><img align="left"  width="420px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=onedark" />
+<img align="left"  width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=onedark" /><img align="left"  width="410px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=onedark" />
