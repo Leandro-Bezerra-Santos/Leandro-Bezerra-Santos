@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Olá, eu sou o Leandro Bezerra! Bem vindo ao meu GitHub 👋 </h1>
 
 
@@ -23,6 +21,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
+
+
+
+
 
 
 <h2>Estudando</h2>
