@@ -16,7 +16,7 @@
  
 <h2><i> Conhecimento nas tecnologias:</i></h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="450px" align="right" >
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" >
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -37,18 +37,3 @@
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=onedark" /><img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=onedark" />
 
-
-<!--
-**Leandro-Bezerra-Santos/Leandro-Bezerra-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
