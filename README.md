@@ -10,7 +10,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodiasbezerra95@gmail.com)
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511982848287&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511982848287&text=Olá!Peguei seu número no gitHub)
  
 <h2><i> Conhecimento nas tecnologias:</i></h2>
 
