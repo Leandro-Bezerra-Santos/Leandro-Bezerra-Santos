@@ -22,17 +22,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
 
-
-
-
-
-
-<h2>Estudando</h2>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB)
-
 <h2><i>Conhecimento nas linguagens:</i></h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
