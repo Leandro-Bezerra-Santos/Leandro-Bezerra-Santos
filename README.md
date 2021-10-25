@@ -14,7 +14,7 @@
  
 <h2><i> Conhecimento nas tecnologias:</i></h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" >
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" >
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -26,6 +26,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=onedark" /><img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=onedark" />
+<img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Bezerra-Santos&layout=compact&theme=onedark" /><img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Leandro-Bezerra-Santos&show_icons=true,css&layout=compact&theme=onedark" />
 
 
