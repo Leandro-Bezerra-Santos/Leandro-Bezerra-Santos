@@ -3,7 +3,6 @@
  
 - 🔭  I'm currently unemployed
 - 🌱  I’m always studying **JavaScript, Html 5, Css 3, NodeJs**
-- 🚀  How to reach me  [leandro.dev](https://leandro-bezerra-santos.github.io/SobreDeveloper-Portifolio/)
 
 <br>
 
