@@ -3,6 +3,7 @@
  
 - 🔭  I'm currently unemployed
 - 🌱  I’m always studying **JavaScript, Html 5, Css 3, NodeJs**
+<a href="https://instagram.com/jovem_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <br>
 
