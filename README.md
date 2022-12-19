@@ -6,7 +6,7 @@
 **About me** 
 - 💻  I'm web developer since 2020
 - 🔭  I'm currently unemployed
-- 🚀  I’m always studying **JavaScript, Html 5, Css 3**
+- 🚀  I’m always studying **NodeJS, JavaScript, Html 5, Css 3**
 - 💬  How to reach me <a href="https://instagram.com/jovem_developer" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/leandro-bezerra-/" target="_blank">LinkedIn</a>
 
  * * *
